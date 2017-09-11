@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Brain Trainer</string>
+    <string name="score_display">Your score is:</string>
+</resources>
